@@ -1,0 +1,1 @@
+<?php echo startit_qode_execute_shortcode('qodef_icon', $icon_parameters);

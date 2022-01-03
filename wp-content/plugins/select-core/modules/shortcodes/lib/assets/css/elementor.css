@@ -1,0 +1,259 @@
+.startit-elementor-custom-icon{
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url('../img/elementor-icons.png');
+    background-size: auto!important;
+}
+.startit-elementor-custom-icon.startit-elementor-elements-holder {
+    background-position:0px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-elements-holder-item {
+    background-position:-32px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-bordered-elements-holder-item {
+    background-position:-64px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-blog-list {
+    background-position:-96px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-blog-slider {
+    background-position:-128px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-portfolio {
+    background-position:-160px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-portfolio-slider {
+    background-position:-192px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-testimonials {
+    background-position:-224px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-carousel-slider {
+    background-position:-256px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-vertical-split-slider {
+    background-position:-288px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-vertical-split-slider-left-panel {
+    background-position:-320px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-vertical-split-slider-right-panel {
+    background-position:-352px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-vertical-split-slider-content-item {
+    background-position:-384px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-image-slider-no-space {
+    background-position:-416px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-interactive-gallery {
+    background-position:-448px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-masonry-gallery {
+    background-position:-480px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-google-map {
+    background-position:-512px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-team {
+    background-position:-544px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-clients {
+    background-position:-576px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-client {
+    background-position:-608px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-circles {
+    background-position:-640px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-circle {
+    background-position:-672px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-pricing-tables {
+    background-position:-704px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-pricing-table {
+    background-position:-736px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-pricing-list {
+    background-position:-768px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-pricing-list-item {
+    background-position:-800px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-service-table {
+    background-position:-832px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-call-to-action {
+    background-position:-864px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-message {
+    background-position:-896px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-blockquote {
+    background-position:-928px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-custom-font {
+    background-position:-960px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-button {
+    background-position:-992px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-counter {
+    background-position:-1024px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-countdown {
+    background-position:-1056px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-pie-chart {
+    background-position:-1088px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-pie-chart2 {
+    background-position:-1120px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-pie-chart3 {
+    background-position:-1152px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-pie-chart-with-icon {
+    background-position:-1184px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-progress-bar {
+    background-position:-1216px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-vertical-progress-bar {
+    background-position:-1248px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-progress-bar-icon {
+    background-position:-1280px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-line-graph {
+    background-position:-1312px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-ordered-list {
+    background-position:-1344px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-unordered-list {
+    background-position:-1376px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-icon-list-item {
+    background-position:-1408px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-icons {
+    background-position:-1440px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-social-icons {
+    background-position:-1472px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-icon-with-text {
+    background-position:-1504px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-separator-with-icon {
+    background-position:-1536px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-animated-icons-with-text {
+    background-position:-1568px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-animated-icon-with-text {
+    background-position:-1600px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-social-share {
+    background-position:-1632px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-cover-boxes {
+    background-position:-1664px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-interactive-banners {
+    background-position:-1696px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-image-with-text-and-icon {
+    background-position:-1728px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-image-with-text {
+    background-position:-1760px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-image-hover {
+    background-position:-1792px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-video {
+    background-position:-1824px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-product-slider {
+    background-position:-1856px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-blog-carousel {
+    background-position:-1888px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-parallax-layers {
+    background-position:-1920px 0px;
+}
+
+/* five icons from pitch*/
+
+.startit-elementor-custom-icon.startit-elementor-tabs {
+    background-position:-2112px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-tab {
+    background-position:-2144px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-accordion {
+    background-position:-2176px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-accordion-section {
+    background-position:-2208px 0px;
+}
+
+/* Numbered image */
+
+.startit-elementor-custom-icon.startit-elementor-particles {
+    background-position:-2272px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-particles-content {
+    background-position:-2304px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-fullwidth-slider-holder {
+    background-position:-2336px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-fullwidth-slider-item {
+    background-position:-2368px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-process-holder {
+    background-position:-2400px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-process-item {
+    background-position:-2432px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-image-with-icon {
+    background-position:-2464px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-underline-icon-box {
+    background-position:-2496px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-video-button {
+    background-position:-2528px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-separator {
+    background-position:-2560px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-image-gallery {
+    background-position:-2592px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-pricing-slider {
+    background-position:-2624px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-pricing-info {
+    background-position:-2656px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-service-table {
+    background-position:-2688px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-animations-holder {
+    background-position:-2720px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-mobile-showcase-holder {
+    background-position:-2752px 0px;
+}
+.startit-elementor-custom-icon.startit-elementor-mobile-showcase-item {
+    background-position:-2784px 0px;
+}
