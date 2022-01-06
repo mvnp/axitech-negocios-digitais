@@ -28,7 +28,7 @@ if (!function_exists( 'startit_qode_register_footer_sidebar' )) {
 			'name'          => esc_html__( 'Footer Column 3','startit'),
 			'id'            => 'footer_column_3',
 			'description'   => esc_html__( 'Widgets added here will appear in the third column of top footer area','startit'),
-			'before_widget' => '<div id="%1$s" class="widget qodef-footer-column-3 %2$s">',
+			'before_widget' => '<div id="%1$s" class="widget qodef-footer-column-3 %2$s widget_recent_entries">',
 			'after_widget' => '</div>',
 			'before_title' => '<h4 class="qodef-footer-widget-title">',
 			'after_title' => '</h4>'
